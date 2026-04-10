@@ -1,9 +1,11 @@
-remote_theme: "mmistakes/minimal-mistakes@4.28.0"
+remote_theme: "mmistakes/minimal-mistakes"
 
-# Ajoute aussi cette ligne pour être certain que GitHub utilise les bons plugins
 plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
 title: "escapedmind"
 name: "escapedmind"
 description: "Artiste Multidisciplinaire | Technologue Créatif"
