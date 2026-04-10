@@ -1,35 +1,33 @@
 ---
 layout: single
-title: "Artiste & Technologue"
+title: "escapedmind"
 author_profile: true
 header:
-  overlay_image: /assets/images/IMG-20240401-WA0041.jpg # As above so below
-  overlay_filter: 0.5 # Pour rendre le texte lisible sur l'image
-  caption: "Performance à l'Insectarium de Montréal"
+  overlay_image: /assets/images/IMG-20240401-WA0041.jpg
+  overlay_filter: 0.25 # Pour rendre le texte lisible sur l'image
+  caption: "Santiago Betancour"
 ---
 
-## À propos
-Coming from a lifelong passion for ambient electronic music, **escapedmind** grounds his mixes with long-form transitions of textures and melodies...
-
-# 🌿 escapedmind 
+# Santiago Betancour / escapedmind 
 ### Artiste Multidisciplinaire | Technologue Créatif | Concepteur Sonore
 
-Basé à Montréal, j'explore l'intersection entre la nature, la technologie et l'immersion sonore.
+Basé à Montréal, j'explore l'intersection entre la nature, la technologie et l'immersion sonore et visuelle.
 
 ---
 
-## 🚀 Projets Phares
-* **[WaveSounds Project](https://www.youtube.com/@wavesoundsproject)** : Co-fondateur et directeur audiovisuel.
-* **Exotopie** : [Voir la performance sur YouTube](https://www.youtube.com/watch?v=FLK8M0UvUoE)
-* **Bain Sonore 2027** : Performance immersive avec SPAT Revolution (en développement).
+## Projets Phares
+* **[WaveSounds Project](https://www.youtube.com/@wavesoundsproject)** : Membre co-fondateur et directeur audiovisuel.
+* **Exotopie** : [Voir la vidéo recap sur YouTube](https://www.youtube.com/watch?v=FLK8M0UvUoE)
+* **Rites of Resonance** : Performance de bain sonore immersif sur dôme d'hauts-parleurs.
 
 ---
 
-## 💼 Expériences Professionnelles
+## Expériences Professionnelles
 
 ### **Insectarium de Montréal (Espace pour la vie)**
 *Électrotechnicien / Technicien audiovisuel | 2021 — Présent*
-* Gestion du parc AV et production de contenus macro/scientifiques.
+* Gestion du parc AV, mise à niveau & recherche et développement
+* Production de contenus audiovisuels: macro-photographie, captation vidéo des résidences artistiques, captation des sorties terrain des scientifiques.
 * Conception interactive (TouchDesigner/DMX) pour la Nuit Blanche.
 * Scénographie sonore 7.1 pour le parcours *Forces Vives*.
 
@@ -40,17 +38,17 @@ Basé à Montréal, j'explore l'intersection entre la nature, la technologie et 
 
 ---
 
-## 🎨 Portfolio & Liens
+## Portfolio & Liens
 * 🎵 [SoundCloud (Compositions & Mixes)](https://soundcloud.com/escapedmind)
 * 📸 [Instagram (Art visuel)](https://www.instagram.com/escaped_mind/)
-* 🖼️ [Direction Photographique](https://escapedmedia.wordpress.com/photographie/)
+* 🖼️ [Direction Photographique pour l'atelier Carmen Calburean](https://escapedmedia.wordpress.com/photographie/)
 
 ---
 
-## 🛠️ Expertise Technique
-* **Audio** : Ableton Live, SPAT Revolution, Digitakt, MicroKorg.
+## Expertise Technique
+* **Audio** : Ableton Live, SPAT Revolution, Digitakt.
 * **Visuel** : TouchDesigner, After Effects, DMX.
 * **Scolaire** : Baccalauréat en Médias Interactifs (UQAM), AEC Musitechnic, DEC Cinéma.
 
 ---
-📫 **Me contacter :** [santiagobeta93@gmail.com]
+📫 **Me contacter :** escapedmind@hotmail.com
