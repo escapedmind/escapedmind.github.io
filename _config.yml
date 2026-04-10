@@ -1,4 +1,4 @@
-remote_theme: "mistakes/minimal-mistakes"
+theme: jekyll-mistakes/minimal-mistakes"
 title: "escapedmind"
 name: "escapedmind"
 description: "Artiste Multidisciplinaire | Technologue Créatif"
