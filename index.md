@@ -1,6 +1,6 @@
 ---
 layout: single
-title: ""──\/──\/──  〈 ⎔ 〉  ──\/──\/──""
+title: "──\/──\/──  〈 ⎔ 〉  ──\/──\/──"
 author_profile: true
 header:
   overlay_image: /assets/images/IMG-20240401-WA0041.jpg
