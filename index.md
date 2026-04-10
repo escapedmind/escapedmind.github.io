@@ -1,14 +1,12 @@
 ---
 layout: single
-title: "──\/──\/──  〈 ⎔ 〉  ──\/──\/──"
+title: "Santiago Betancour"
 author_profile: true
 header:
   overlay_image: /assets/images/IMG-20240401-WA0041.jpg
   overlay_filter: 0.25 # Pour rendre le texte lisible sur l'image
-  caption: "Santiago Betancour"
 ---
 
-# Santiago Betancour / escapedmind 
 ### Artiste Multidisciplinaire | Technologue Créatif | Concepteur Sonore
 
 Basé à Montréal, j'explore l'intersection entre la nature, la technologie et l'immersion sonore et visuelle.
