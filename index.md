@@ -1,3 +1,17 @@
+---
+layout: single
+title: "Artiste & Technologue"
+author_profile: true
+header:
+  overlay_image: /assets/images/insectarium-header.jpg # Une belle photo d'ambiance
+  overlay_filter: 0.5 # Pour rendre le texte lisible sur l'image
+  caption: "Performance à l'Insectarium de Montréal"
+---
+
+## À propos
+Coming from a lifelong passion for ambient electronic music, **escapedmind** grounds his mixes with long-form transitions of textures and melodies...
+
+(Colle ici la suite du CV que nous avons préparé ensemble)
 # 🌿 escapedmind 
 ### Artiste Multidisciplinaire | Technologue Créatif | Concepteur Sonore
 
