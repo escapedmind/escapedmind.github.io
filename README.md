@@ -11,7 +11,6 @@ header:
 ## À propos
 Coming from a lifelong passion for ambient electronic music, **escapedmind** grounds his mixes with long-form transitions of textures and melodies...
 
-(Colle ici la suite du CV que nous avons préparé ensemble)
 # 🌿 escapedmind 
 ### Artiste Multidisciplinaire | Technologue Créatif | Concepteur Sonore
 
