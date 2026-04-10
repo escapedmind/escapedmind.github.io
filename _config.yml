@@ -1,5 +1,3 @@
-# Supprime ou commente la ligne "theme: minimal-mistakes-jekyll"
-# Et utilise celle-ci à la place :
 remote_theme: "mmistakes/minimal-mistakes@4.28.0"
 
 # Ajoute aussi cette ligne pour être certain que GitHub utilise les bons plugins
