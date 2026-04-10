@@ -3,7 +3,7 @@ layout: single
 title: "Artiste & Technologue"
 author_profile: true
 header:
-  overlay_image: /assets/images/insectarium-header.jpg # Une belle photo d'ambiance
+  overlay_image: /assets/images/IMG-20240401-WA0041.jpg # Une belle photo d'ambiance
   overlay_filter: 0.5 # Pour rendre le texte lisible sur l'image
   caption: "Performance à l'Insectarium de Montréal"
 ---
