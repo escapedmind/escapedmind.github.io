@@ -5,7 +5,7 @@ author_profile: true
 header:
   overlay_image: /assets/images/IMG-20240401-WA0041.jpg # Une belle photo d'ambiance
   overlay_filter: 0.5 # Pour rendre le texte lisible sur l'image
-  caption: "Performance à l'Insectarium de Montréal"
+  caption: "As above so below"
 ---
 
 ## À propos
@@ -53,4 +53,4 @@ Basé à Montréal, j'explore l'intersection entre la nature, la technologie et 
 * **Scolaire** : Baccalauréat en Médias Interactifs (UQAM), AEC Musitechnic, DEC Cinéma.
 
 ---
-📫 **Me contacter :** [Ton courriel ici]
+📫 **Me contacter :** [santiagobeta93@gmail.com]
