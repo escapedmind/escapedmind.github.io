@@ -12,10 +12,6 @@ description: "Artiste Multidisciplinaire | Technologue Créatif"
 url: "https://ton-nom-utilisateur.github.io" # Remplace par ton URL
 baseurl: ""
 
-# Configuration du thème
-theme: minimal-mistakes-jekyll
-remote_theme: "mmistakes/minimal-mistakes"
-
 # Informations sur l'auteur (apparaît à gauche)
 author:
   name: "escapedmind"
