@@ -1,1 +1,38 @@
+title: "escapedmind"
+name: "escapedmind"
+description: "Artiste Multidisciplinaire | Technologue Créatif"
+url: "https://ton-nom-utilisateur.github.io" # Remplace par ton URL
+baseurl: ""
+
+# Configuration du thème
 theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes"
+
+# Informations sur l'auteur (apparaît à gauche)
+author:
+  name: "escapedmind"
+  avatar: "/assets/images/ton-avatar.jpg" # Optionnel : ajoute une photo plus tard
+  bio: "Exploration sonore, biophilie et médias interactifs."
+  location: "Montréal, QC"
+  links:
+    - label: "SoundCloud"
+      icon: "fab fa-fw fa-soundcloud"
+      url: "https://soundcloud.com/escapedmind"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/escaped_mind/"
+
+# Sidebar par défaut
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
