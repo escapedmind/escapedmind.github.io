@@ -30,7 +30,8 @@ Basé à Montréal, j'explore l'intersection entre la nature, la technologie et 
 * Scénographie sonore 7.1 pour le parcours *Forces Vives*.
 
 ### **Scénographie & Technique**
-* **Prix Mosaïque (UQAM)** : Scénographe et responsable technique (2025-2026).
+* **Prix Mosaïque (UQAM 2025)** : Scénographe et responsable technique (2025-2026).
+* **Prix Mosaïque (UQAM 2024)** : [Scénographe et responsable technique](https://youtu.be/TgmYvAaa9MA)
 * **Pointe-à-Callière** : Technicien audiovisuel (2018-2021).
 * **Radio CFMB 1280 AM** : Ingénieur sonore à la console.
 
@@ -39,7 +40,10 @@ Basé à Montréal, j'explore l'intersection entre la nature, la technologie et 
 ## Portfolio & Liens
 * 🎵 [SoundCloud (Compositions & Mixes)](https://soundcloud.com/escapedmind)
 * 📸 [Instagram (Art visuel)](https://www.instagram.com/escaped_mind/)
+* [Participation à Minute MAPP Montréal 2024, festival de projections]
 * 🖼️ [Direction Photographique pour l'atelier Carmen Calburean](https://escapedmedia.wordpress.com/photographie/)
+* [Direction Photographique pour la collection Dyreliv 19](https://youtu.be/PFw3BMc_n1A?si=tCuKoPhViA9LM1PO)
+* [Performance à Imagenes Sonoras, Bogota Colombia 2024](https://www.youtube.com/watch?v=786BgLVNU4E)
 
 ---
 
